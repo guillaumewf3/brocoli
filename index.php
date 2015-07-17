@@ -9,5 +9,7 @@
 dsafdasfdsfadsf
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima vitae iste, ad voluptate deleniti repudiandae amet officia laudantium est, beatae voluptates natus officiis quidem ipsam nemo quas suscipit quisquam. Dicta.</p>
 	1111
+
+	<script src="js/broco.js"></script>
 </body>
 </html>
