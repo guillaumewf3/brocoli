@@ -10,7 +10,7 @@ dsafdasfdsfadsf
 	<img src="http://mktg.factosoft.com/consoglobe/image-upload/img/broccoli.jpg" alt="brocolis">
 	<p>Lorem ipsum dolor sit ametpit quisquam. Dicta.</p>
 	1111
-
+	<p>Coucou tout le monde :D</p>
 	<script src="js/broco.js"></script>
 </body>
 </html>
